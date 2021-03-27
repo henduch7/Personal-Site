@@ -74,6 +74,12 @@ hr {
   left: 250px;
   bottom: 300px;
 }
+.mypic {
+  width: 220px;
+  height: 155px;
+  border-radius: 50%;
+
+}
 .skill-row {
   width: 50%;
   margin: 100px auto;
@@ -84,12 +90,14 @@ hr {
   width: 25%;
   float: left;
   margin-right: 30px;
+  border-radius: 8px;
 }
 .photo-img {
   width: 25%;
   float: right;
   margin-left: 30px;
   margin-top: 30px;
+  border-radius: 8px;
 }
 .contact-message {
   width: 40%;
